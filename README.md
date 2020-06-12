@@ -139,7 +139,7 @@ The library supports building complex cryptographic schemes. To enable this vari
  * mathematical groups in which the operations take place
  * utilities for generating safe primes, group generators, for decomposing integers into squares (`crypto/common`)
  * commitments (to commit to a chosen value while keeping it hidden to others)
- * zero-knowledge proofs as building blocks for schemes (protocols which are used as subprotocols in schemes, see `crypto/zkp`)
+ * zero-knowledge proofs as building blocks for schemes (protocols which are used as subprotocols in schemes, see `crypto/zn`)
  * communication layer to enable client-server interaction (for messages exchanged in protocols)
  
 ## Groups
